@@ -72,12 +72,3 @@ This project analyzes loan data using Power BI Desktop and Microsoft SQL Server,
 ##  Author
 
 **Anjali Kushwaha**  
-Aspiring Data Analyst | Skilled in SQL, Excel, Power BI, DAX, and Visualization
-
----
-
-## ✅ Project Status
-
-**Completed** ✔️  
-**Gateway Setup:** *Skipped due to cost constraints*  
-**Ready for Portfolio & Resume** ✔️
